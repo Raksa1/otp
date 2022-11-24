@@ -91,7 +91,7 @@ btnVerify.addEventListener('click', () => {
         `;
 
         setTimeout(() => {
-            window.location.href = `https://www.homiedev.com/javascript-projects-for-beginners/`;
+            window.location.href = `https://www.aupp.edu.kh`;
         }, 3000);
     } else {
         icon.classList.remove('fa-check-circle');
